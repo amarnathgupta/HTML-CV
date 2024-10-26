@@ -1,4 +1,5 @@
 # CV Website
+[GitHub Repository](https://github.com/amarnathgupta/HTML-CV.git)
 
 This project is a simple HTML-based Curriculum Vitae (CV) designed to showcase my skills, experience, and education as a Junior Frontend Developer. The CV is styled using CSS and is responsive for viewing on different devices.
 
