@@ -30,6 +30,6 @@ This project is a simple HTML-based Curriculum Vitae (CV) designed to showcase m
 3. Open the `index.html` file in your web browser.
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/amarnathgupta/HTML-CV.git
 cd your-repo-name/html-csv
 open index.html  # or double-click the file to open it in a browser
